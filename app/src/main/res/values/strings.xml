@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TouristApp</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoiYmFvZGlodXluaCIsImEiOiJja2R2bXZhYjQxaWo2MnFuOWtzdDYxOWVrIn0.0nsg1x8R2fblkN5Evv0vnQ</string>
+</resources>
